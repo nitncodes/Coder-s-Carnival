@@ -1,0 +1,23 @@
+#include <stdio.h>
+#include<iostream>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+using namespace std;
+
+int main() {
+
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    int x;
+    scanf("%d",&x);
+    if(x>7)
+    {
+        printf("YES");
+    }
+    else
+    {
+        printf("NO");
+    }
+    return 0;
+}
