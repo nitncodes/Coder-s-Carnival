@@ -1,0 +1,14 @@
+Input Format:
+The first and only line of input contains two space-separated integers X and Y - the number of stoves and the number of minutes, respectively
+
+Constraints:
+1≤X,Y≤1000
+
+Output Format:
+Print a single integer, the maximum number of customers Ridhi can serve in Y minutes
+
+Sample Input:
+3 7
+
+Sample Output:
+21
