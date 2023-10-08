@@ -1,0 +1,17 @@
+The newspaper in Chefland consists of 10 pages numbered 1 to 10. The last 3 pages of the newspaper are always dedicated to the sports section. Given a random page number X, determine whether that page is dedicated to the sports section
+
+Input Format:
+The first and only line of input consists of a single integer X, denoting the page number
+
+Constraints:
+1 ≤ X ≤ 10
+
+Output Format:
+Output on a new line, YES, if the given page number is dedicated to the sports section, and NO otherwise.
+
+Sample Input:
+4
+
+Sample Output:
+NO
+
